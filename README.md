@@ -7,6 +7,7 @@
 * 4 删除商品的功能和小计的计算
 * 5 IE低版本兼容问题
 * 6 JS表格的操作，通过parseInt()，parseFloat()把字符串转换成数字和通过toFixed()把数字格式化成指定位数的小数
+* 7 var tr=cartTable.children[1].rows;//cartTable.children[1]表示cartTable下的第二个子节点，rows是表格元素的特有属性，存放所有的tr元素
 
 ### 这是实现的效果
 http://htmlpreview.github.io/?https://github.com/yanjungan/shopcart/blob/master/index.html
